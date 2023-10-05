@@ -1,0 +1,14 @@
+C:\Git\Pattern_Observer\Pattern_Observer\bin\Debug\net7.0\Pattern_Observer.exe
+C:\Git\Pattern_Observer\Pattern_Observer\bin\Debug\net7.0\Pattern_Observer.deps.json
+C:\Git\Pattern_Observer\Pattern_Observer\bin\Debug\net7.0\Pattern_Observer.runtimeconfig.json
+C:\Git\Pattern_Observer\Pattern_Observer\bin\Debug\net7.0\Pattern_Observer.dll
+C:\Git\Pattern_Observer\Pattern_Observer\bin\Debug\net7.0\Pattern_Observer.pdb
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.AssemblyInfoInputs.cache
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.AssemblyInfo.cs
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.csproj.CoreCompileInputs.cache
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.dll
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\refint\Pattern_Observer.dll
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.pdb
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\Pattern_Observer.genruntimeconfig.cache
+C:\Git\Pattern_Observer\Pattern_Observer\obj\Debug\net7.0\ref\Pattern_Observer.dll
